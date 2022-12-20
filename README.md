@@ -15,5 +15,3 @@ other features:
 * && and || logical operators
 * semicolon separator
 * limited variable expansion
-
-Also check out this blog post we wrote: https://medium.com/simple-shell-project/what-happens-when-you-type-ls-l-in-the-shell-e6430f1e6671
